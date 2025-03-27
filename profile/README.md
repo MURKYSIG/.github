@@ -36,6 +36,6 @@ This project is led by [Nadia Santodomingo](mailto:n.santodomingo@nhm.ac.uk), Na
 
 ## Funding Information
 
-The MURKY project team was assembled through a [Paleosynthesis](https://www.paleosynthesis.nat.fau.de/index.php/2024/06/26/murky-workshop/) funded research workshop.
+The MURKY project team was assembled through a [Paleosynthesis](https://www.paleosynthesis.nat.fau.de/index.php/murky/) funded research workshop.
 
 The MURKY project itself is currently unfunded. 
