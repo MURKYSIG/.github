@@ -12,7 +12,7 @@ This project is led by [Nadia Santodomingo](mailto:n.santodomingo@nhm.ac.uk), Na
 - [Francesca Bosellini](mailto:francesca.bosellini@unimore.it), Università di Modena e Reggio Emilia, Italy
 - [Juan C. Braga](mailto:jbraga@ugr.es), University of Granada, Spain
 - [Clara Diaz](mailto:clara.diaz@plymouth.ac.uk), University of Plymouth, UK
-- [Danijela Dimitrijevic](mailto:danijela.dimitrijevic@fau.de), FAU Erlangen, Germany
+- [Danijela Dimitrijević](mailto:danijela.dimitrijevic@fau.de), FAU Erlangen, Germany
 - [Elizabeth Dowding](mailto:elizabeth.dowding@fau.de), FAU Erlangen, Germany
 - [Ken Johnson](mailto:k.johnson@nhm.ac.uk), Natural History Museum, UK
 - [Lewis A. Jones](mailto:lewis.jones@ucl.ac.uk), University College London, UK
