@@ -1,6 +1,8 @@
-# Mesophotic and turbid Reefs as key ecosystems for the future? (MURKY)
+<img src="logo.png" align ="right" height="100" />
 
-Welcome to the GitHub organisation page of the project. The aim of...
+# Mesophotic and turbid reefs as key ecosystems for the future (MURKY)
+
+Welcome to the GitHub organisation page of MURKY. Recent palaeontological studies have revealed that mesophotic reefs might have been more common throughout the evolutionary history of reefs than previously considered. This project aims to evaluate whether the current success of marginal coral ecosystems is related to their long-term geological resilience throughout the Phanerozoic.
 
 This project is led by [Nadia Santodomingo](mailto:n.santodomingo@nhm.ac.uk), Natural History Museum and [Lewis A. Jones](mailto:lewis.jones@ucl.ac.uk), University College London.
 
